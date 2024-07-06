@@ -1,6 +1,6 @@
 /*
  	* Author:		Manav
- 	* Module:   	Getting Started with Programming in C
+ 	* Module:   		Getting Started with Programming in C
  	* Topic:		Report Card Generation Assignment
 */
 
